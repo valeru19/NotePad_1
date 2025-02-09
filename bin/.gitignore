@@ -1,0 +1,10 @@
+# Ignore build and output directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio temporary files, caches, and configuration
+.vs/
